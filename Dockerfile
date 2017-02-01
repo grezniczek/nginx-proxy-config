@@ -1,5 +1,5 @@
 FROM busybox
-LABEL maintainer "g.rezniczek@sci-design.at"
+LABEL maintainer "Günther Rezniczek<info@sci-design.at>"
 
 # Add empty placeholder folders to the image
 ADD conf.d/	/etc/nginx/conf.d/
