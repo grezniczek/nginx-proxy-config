@@ -16,5 +16,5 @@ VOLUME /etc/docker-gen/templates
 VOLUME /usr/share/nginx/html
 
 # Give an indication what version of the template is included
-ENV NGINXPROXY_TEMPLATE_VERSION 0.5.0
+ENV NGINXPROXY_TEMPLATE_SHA1 596283c97146519ba21c1c9a359cc9afa36a6c5b
 
